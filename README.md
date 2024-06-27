@@ -1,0 +1,1 @@
+# ProjFinal_Iot-Lixeira-Inteligente
